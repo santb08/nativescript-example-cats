@@ -18,7 +18,6 @@ const fetchCat = async () => {
 const styles = StyleSheet.create({
     container: {
         alignItems: 'center',
-        backgroundColor: '#FFFDF7',
         flexDirection: "column",
         height: "100%",
     },
